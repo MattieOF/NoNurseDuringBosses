@@ -1,0 +1,1 @@
+No Nurse During Bosses prevents the nurse from being used while a boss NPC is alive. Use this if you're masochistic and want to prevent yourself from even trying to heal. Also you'll die if you try to.

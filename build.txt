@@ -1,0 +1,3 @@
+displayName = No Nurse During Bosses
+author = Mattie
+version = 1.0.0
